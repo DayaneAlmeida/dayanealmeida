@@ -3,7 +3,7 @@
 
 Apaixonada por educação e tecnologia
 
-- 🔭 Atualmente estou desenvolvendo minhas soft skills dentro de uma empresa
+- 🔭 Atualmente estou a procura da minha primeira oprtunidade home office!
 
 - 🌱 Front End em construção
 <div align="center">

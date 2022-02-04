@@ -5,7 +5,7 @@ Apaixonada por educação e tecnologia
 
 - 🔭 Atualmente estou a procura da minha primeira oprtunidade home office!
 
-- 🌱 Front End em construção
+- 🌱 Desenvolvedora em contrução 
 <div align="center">
   <a href="https://github.com/dayanealmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanealmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
